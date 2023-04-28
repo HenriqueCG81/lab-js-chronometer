@@ -57,3 +57,4 @@ class Chronometer {
     return `${minuteString}:${secondeString}`;
   }
 }
+//atencao
